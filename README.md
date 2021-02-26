@@ -1,5 +1,5 @@
-PrimePairs Using OpenMP
-S# PrimePairs Using OpenMP
+<h1>PrimePairs Using OpenMP</h1>
+<BR><BR>
 <h2> Student Josh Hudziak <br> Student number: C00231846</h2> <br>
 <h4> Tutor: Joseph Keoghe <br> Requirments: Git, Emacs, g++, gdb, Make, Doxygen, OpenMp</h4> <br>
 
